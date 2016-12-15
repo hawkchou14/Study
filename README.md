@@ -6,6 +6,8 @@ GIT and GITHUB
 <https://github.com/hawkchou14/Study/tree/github/github/>
 Video Introduction:
 <http://www.dataschool.io/git-and-github-videos-for-beginners/>
+Free Private GitHub Service
+<http://bitbucket.org>
 
 New OpenSource Project
 * weberp <http://www.weberp.org/>
