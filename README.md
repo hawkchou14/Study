@@ -4,6 +4,8 @@ Add test
 
 GIT and GITHUB
 <https://github.com/hawkchou14/Study/tree/github/github/>
+Video Introduction:
+<http://www.dataschool.io/git-and-github-videos-for-beginners/>
 
 New OpenSource Project
 * weberp <http://www.weberp.org/>
